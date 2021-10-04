@@ -2,10 +2,12 @@ html, body{
     width: 100vw;
     height: 100vh;
     overflow: hidden;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 h1{
     color: #5865F2;
     display: block;
-    text-align: center;
-    padding-top: 45vh;
 }
